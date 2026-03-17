@@ -3,4 +3,4 @@
 	update = merge
 [submodule "addins/libms"]
 	path = addins/libms
-	url = https://github.com/RedPepperDec/libms_ctr
+	url = https://github.com/RE-Pepper/libms_ctr

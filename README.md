@@ -1,5 +1,4 @@
-## Notes
-Needs to be built with https://github.com/RedPepperDec/ctrsdk cloned in parent folder
+# For Project RE-Pepper
 
 ## Credits
 - https://github.com/open-ead/sead
