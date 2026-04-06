@@ -1,6 +1,6 @@
 [submodule "lib/sead"]
-	branch = main
-	update = merge
+	branch = master
+	update = rebase
 [submodule "addins/libms"]
 	path = addins/libms
 	url = https://github.com/RE-Pepper/libms_ctr
